@@ -1,0 +1,72 @@
+[
+  {
+    "type": "main",
+    "name": "Борщ",
+    "price": 120,
+    "weight_g": 350
+  },
+  {
+    "type": "drink",
+    "name": "Узвар",
+    "price": 40,
+    "volume_ml": 250,
+    "alcohol": false
+  },
+  {
+    "type": "dessert",
+    "name": "Медовик",
+    "price": 90,
+    "is_vegan": false
+  },
+  {
+    "type": "main",
+    "name": "Вареники",
+    "price": 110,
+    "weight_g": 300
+  },
+  {
+    "type": "main",
+    "name": "Деруни",
+    "price": 95,
+    "weight_g": 250
+  },
+  {
+    "type": "drink",
+    "name": "Компот",
+    "price": 35,
+    "volume_ml": 250,
+    "alcohol": false
+  },
+  {
+    "type": "dessert",
+    "name": "Сирники",
+    "price": 85,
+    "is_vegan": false
+  },
+  {
+    "type": "main",
+    "name": "Солянка",
+    "price": 130,
+    "weight_g": 350
+  },
+  {
+    "type": "drink",
+    "name": "Квас",
+    "price": 45,
+    "volume_ml": 330,
+    "alcohol": false
+  },
+  {
+    "type": "dessert",
+    "name": "Фруктовий сорбет",
+    "price": 70,
+    "is_vegan": true
+  },
+  {
+    "type": "drink",
+    "name": "Кока Кола",
+    "price": 70,
+    "volume_ml": 450,
+    "alcohol": false
+  }
+]
